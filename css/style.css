@@ -1,0 +1,110 @@
+body {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background: skyblue;
+    text-align: center;
+  }
+
+footer{
+    background:  skyblue;
+    text-align: center;
+    
+  }
+  
+  .letrazul {
+    color:#066ba6
+  }
+  
+  
+  .container {
+    color: white;
+    /*background-color:gray;*/
+  }
+
+  nav {
+    background: cadetblue;
+    width: 100%;
+    font-weight: bold;
+    font-size:larger;
+    color:#037BC0
+  }
+
+  .producto {
+    display:inline-flex;
+    justify-content: center;  
+  }
+  
+
+  .producto1 {
+    background:  rgb(31, 89, 197);
+    text-align: center;
+    color: aliceblue;
+    width:430px;
+    height: 250px;
+    justify-content: center;
+    padding: 15px;
+    margin: 3px;
+    box-sizing: border-box;
+  }
+
+  .producto2y3 {
+    background: rgb(31, 89, 197);
+    text-align: center;
+    color: aliceblue;
+    width:610px;
+    height: 250px;
+    justify-content: center;
+    padding: 15px;
+    margin: 3px;
+    box-sizing: border-box;
+  }
+
+  .producto456 {
+    background: rgb(31, 89, 197);
+    text-align: center;
+    color: aliceblue;
+    width:400px;
+    height: 250px;
+    justify-content: center;
+    padding: 15px;
+    margin: 3px;
+    box-sizing: border-box;
+  }
+
+  .img {
+    width:400px;
+    height:250px;
+    margin: 3px;
+    background-color: aquamarine;
+  }
+  
+  .img1 {
+    width:800px;
+    height:250px;
+    margin: 3px;
+  }
+    
+  .img2y3 {
+    width:600px;
+    height:250px;
+    margin: 3px;
+  }
+  
+  .precio {
+    font-weight: bold;
+    color:white;
+    font-size : 15px
+  }
+  
+  .card-body {
+    background-color: rgb(101, 158, 185);
+  } 
+
+  .grid {
+    display: grid;
+    align-content:space-evenly;
+    justify-content: center
+  }
